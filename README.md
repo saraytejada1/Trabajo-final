@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="Perrito" height="400px" src="https://raw.githubusercontent.com/saraytejada1/Trabajo-final/main/images/img1.jpg">
+                <img alt="Perrito" height="300px" src="https://raw.githubusercontent.com/saraytejada1/Trabajo-final/main/images/img1.jpg">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
