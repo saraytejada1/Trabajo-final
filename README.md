@@ -14,7 +14,7 @@
         </tr>
         <tr>
             <td>
-                <h1><b>Trabajo Final</b></h1> - poner nombre
+                <h1><b>Trabajo Final- poner nombre</b></h1> 
             </td>
         </tr>
         <tr>
