@@ -3,13 +3,13 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="Perrito" height="200px" src="https://raw.githubusercontent.com/saraytejada1/Trabajo-final/main/images/img1.jpg">
+                <img alt="Perrito" height="400px" src="https://raw.githubusercontent.com/saraytejada1/Trabajo-final/main/images/img1.jpg">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
             </td>
             <td rowspan="3">
-                <img alt="II" height="400px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" hspace="10px" vspace="0px">
+                <img alt="II" height="200px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ingenier%C3%ADa_Industrial_UdeA.png/1026px-Ingenier%C3%ADa_Industrial_UdeA.png" hspace="0px" vspace="0px">
             </td>
         </tr>
         <tr>
