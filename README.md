@@ -113,7 +113,9 @@ Describe los requisitos funcionales y no funcionales del software.
 *   Los requisitos funcionales definen las acciones específicas, comportamientos, y operaciones que el software debe ejecutar para satisfacer las necesidades del usuario final.
 *   Los requisitos no funcionales especifican criterios que pueden usarse para juzgar la operación del sistema, más allá de los comportamientos específicos. Esto incluye aspectos como el rendimiento, seguridad, usabilidad, fiabilidad, y compatibilidad.
 
-*   ## **7.	Plan de proyecto**
+## **7.	Plan de proyecto**
 
 Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
 *   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
+
+ 
