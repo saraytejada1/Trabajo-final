@@ -13,7 +13,7 @@
             </td>
         </tr>
         <tr>
-            <td>
+            <td align="center">
                 <h1><b>Trabajo Final- poner nombre</b></h1> 
             </td>
         </tr>
