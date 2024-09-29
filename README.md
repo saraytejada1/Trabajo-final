@@ -3,7 +3,7 @@
     <thead>
         <tr>
             <td rowspan="3">
-                <img alt="Perrito" height="300px" src="https://raw.githubusercontent.com/saraytejada1/Trabajo-final/main/images/img1.jpg">
+                <img alt="Logo" height="300px" src="https://w7.pngwing.com/pngs/306/715/png-transparent-health-protection-padlock-shield-medical-cross-symbol-thumbnail.png">
             </td>
             <td align="center">
                 <h1><b>Programación y Algoritmia</b></h1>
@@ -14,7 +14,7 @@
         </tr>
         <tr>
             <td align="center">
-                <h1><b>Trabajo Final- poner nombre</b></h1> 
+                <h1><b>EPS SEGURA</b></h1> 
             </td>
         </tr>
         <tr>
@@ -36,7 +36,7 @@
 </p>
 
 <div align="right">
-<h2> <b> Por: Angie Saray Tejada Vasquez </b> </h2>
+<h2> <b> Por: Angie Saray Tejada Vasquez. </b> </h2>
 <a href="mailto:saray.tejada@udea.edu.co"> ✉ Angie Saray Tejada Vasquez </a>
 <h2> <b> Por: Valentina Torres Franco. </b> </h2>
 <a href="mailto: valentina.torresf@udea.edu.co"> ✉ Valentina Torres Franco </a>
@@ -44,15 +44,15 @@
 
 <br>
 
-# **Descripción del problema a solucionar -Software gestión turnos**
+# **Descripción del problema a solucionar - Software gestión turnos**
 
-La EPS PailaSalud está interesada en crear un programa para la gestión de turnos y atenciones debido a que actualmente el procedimiento se realiza manualmente en donde los pacientes deben estar sentados y esperando el servicio, sin ningún tipo de atención preferencial o clasificada. Este procedimiento afecta el rendimiento del servicio y afecta el desempeño de la atención.
+La EPS SEGURA está interesada en crear un programa para la gestión de turnos y atenciones debido a que actualmente el procedimiento se realiza manualmente en donde los pacientes deben estar sentados y esperando el servicio, sin ningún tipo de atención preferencial o clasificada. Este procedimiento afecta el rendimiento del servicio y afecta el desempeño de la atención.
 
 Para solucionar este problema los estudiantes en grupos de máximo tres integrantes, deberán crear un programa que se encargue de gestionar las personas que llegan a la EPS, producto de las citas programadas que dispone el servicio de la EPS. El software debe encargarse tanto de su llegada como de su recorrido por el sistema. El listado de las personas será proporcionado por un programa creado por la EPS (el docente entrega este programa para su uso) en un repositorio de GitHub sobre el cual los estudiantes deben hacer un clon del repositorio y continuar con su proyecto desde este punto de partida.
 
 # **El software de la EPS para las citas**
 
-La EPS Paila Salud, tiene un sistema de asignación de citas el cual recibe la solicitud de cita de los pacientes y registra su día, horario, tipo de cita, médico y la información personal del paciente. Este listado será proporcionado por una función del repositorio inicial.
+La EPS SEGURA, tiene un sistema de asignación de citas el cual recibe la solicitud de cita de los pacientes y registra su día, horario, tipo de cita, médico y la información personal del paciente. Este listado será proporcionado por una función del repositorio inicial.
 
 # **Objetivo**
 
@@ -91,13 +91,23 @@ El repositorio debe tener lo siguientes procesos debidamente reportados.
 ## **1.   Integrantes**
 En el repositorio del proyecto debe existir un archivo README.md en donde con Markdown detalle los nombres de los integrantes y una breve descripción.
 
+Angie Saray Tejada Vasquez.
+Valentina Torres Franco.
+Este proyecto se realiza con el fin de desarrollar las primeras habilidades en programación, con las bases que el profesor nos brindó en clase.
+
 ## **2.	Vínculos académicos y descripción**
 
 Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
 
+Ambas estudiantes pertenecen al programa de Ingeniería Industrial.
+Saray, se destaca por ser una persona inteligente y hábil para resolver problemas.
+Valentina, es una persona audaz y sobresale su gran capacidad para ayudar y trabajar en equipo.
+
 ## **3.	Nombre del proyecto y detalles**
 
 Describir el proyecto en pocas líneas y asignarle un nombre con una foto representativa del nombre del proyecto (no es una foto de los integrantes).
+
+EPS SEGURA, quiere brindar una mejor atención a los usuarios. Para esto se diseñará un programa que reciba cada paciente y su solicitud, donde se registrarán una serie de datos como: día, hora, tipo de cita, médico y la información del paciente.
 
 ## **4.	Licencia del software**
 
