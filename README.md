@@ -89,7 +89,6 @@ El entregable debe ser realizado en un repositorio de GitHub y debidamente organ
 El repositorio debe tener lo siguientes procesos debidamente reportados.
 
 ## **1.   Integrantes**
-En el repositorio del proyecto debe existir un archivo README.md en donde con Markdown detalle los nombres de los integrantes y una breve descripción.
 
 Angie Saray Tejada Vasquez.
 Valentina Torres Franco.
@@ -97,15 +96,11 @@ Este proyecto se realiza con el fin de desarrollar las primeras habilidades en p
 
 ## **2.	Vínculos académicos y descripción**
 
-Todos los integrantes deben registrar el programa al cual pertenece, una descripción con habilidades y fortalezas de cada uno.
-
 Ambas estudiantes pertenecen al programa de Ingeniería Industrial.
 Saray, se destaca por ser una persona inteligente y hábil para resolver problemas.
 Valentina, es una persona audaz y sobresale su gran capacidad para ayudar y trabajar en equipo.
 
 ## **3.	Nombre del proyecto y detalles**
-
-Describir el proyecto en pocas líneas y asignarle un nombre con una foto representativa del nombre del proyecto (no es una foto de los integrantes).
 
 EPS SEGURA, quiere brindar una mejor atención a los usuarios. Para esto se diseñará un programa que reciba cada paciente y su solicitud, donde se registrarán una serie de datos como: día, hora, tipo de cita, médico y la información del paciente.
 
@@ -113,9 +108,12 @@ EPS SEGURA, quiere brindar una mejor atención a los usuarios. Para esto se dise
 
 Definir la licencia con la cual registra el software. https://chooser-beta.creativecommons.org/
 
+EPS SEGURA by Angie Saray Tejada Vasquez, Valentina Torres Franco is marked with CC0 1.0 
+
 ## **5.	Reporte de visión**
 
 Proporciona una descripción general del software, sus objetivos y beneficios.
+El software es un conjunto de instrucciones y datos que permiten a las computadoras realizar tareas específicas. Sus obejtivos principales son automatizar tareas, mejorar la productividad, facilitar la cpmunicación y analizar datos. Y los beneficios del software son la eficiencia, accesibilidad y precisión.
 
 ## **6.	Especificación de requisitos**
 
