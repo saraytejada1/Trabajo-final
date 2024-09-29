@@ -91,12 +91,15 @@ El repositorio debe tener lo siguientes procesos debidamente reportados.
 ## **1.   Integrantes**
 
 Angie Saray Tejada Vasquez.
+
 Valentina Torres Franco.
+
 Este proyecto se realiza con el fin de desarrollar las primeras habilidades en programación, con las bases que el profesor nos brindó en clase.
 
 ## **2.	Vínculos académicos y descripción**
 
 Ambas estudiantes pertenecen al programa de Ingeniería Industrial.
+
 Saray, se destaca por ser una persona inteligente y hábil para resolver problemas.
 Valentina, es una persona audaz y sobresale su gran capacidad para ayudar y trabajar en equipo.
 
@@ -112,7 +115,6 @@ EPS SEGURA by Angie Saray Tejada Vasquez, Valentina Torres Franco is marked with
 
 ## **5.	Reporte de visión**
 
-Proporciona una descripción general del software, sus objetivos y beneficios.
 El software es un conjunto de instrucciones y datos que permiten a las computadoras realizar tareas específicas. Sus obejtivos principales son automatizar tareas, mejorar la productividad, facilitar la cpmunicación y analizar datos. Y los beneficios del software son la eficiencia, accesibilidad y precisión.
 
 ## **6.	Especificación de requisitos**
