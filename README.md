@@ -129,3 +129,5 @@ Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del
 *   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
 
  
+![IMG3](https://github.com/user-attachments/assets/e8cb9abf-2614-4256-a78c-0c537eaeca4c)
+<img width="893" alt="IMG4" src="https://github.com/user-attachments/assets/7f283242-eb94-4c09-b361-50af2bf254b6">
