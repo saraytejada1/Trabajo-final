@@ -119,15 +119,41 @@ El software es un conjunto de instrucciones y datos que permiten a las computado
 
 ## **6.	Especificación de requisitos**
 
-Describe los requisitos funcionales y no funcionales del software.
-*   Los requisitos funcionales definen las acciones específicas, comportamientos, y operaciones que el software debe ejecutar para satisfacer las necesidades del usuario final.
-*   Los requisitos no funcionales especifican criterios que pueden usarse para juzgar la operación del sistema, más allá de los comportamientos específicos. Esto incluye aspectos como el rendimiento, seguridad, usabilidad, fiabilidad, y compatibilidad.
+
+  Criterios Funcionales más importantes:
+* Asignación automática de turnos: El sistema debe asignar turnos de manera automática según la llegada, prioridad médica y disponibilidad de personal, optimizando los tiempos de espera.
+
+* Triage y clasificación de pacientes: El software debe clasificar a los pacientes según la urgencia de su condición médica para asegurar que aquellos con mayores necesidades reciban atención prioritaria.
+
+* Notificaciones en tiempo real: Los pacientes deben recibir actualizaciones constantes sobre su turno, tiempo de espera estimado y cualquier cambio, mejorando la experiencia y reduciendo la incertidumbre.
+
+  Criterios No Funcionales más importantes:
+* Seguridad de los datos: Toda la información médica y personal de los pacientes debe estar protegida según las normativas de protección de datos, garantizando la confidencialidad y seguridad.
+
+* Rendimiento y escalabilidad: El sistema debe ser capaz de manejar un alto volumen de pacientes simultáneamente sin pérdida de rendimiento, con capacidad de escalar a medida que crece la EPS.
+
+* Disponibilidad y confiabilidad: El software debe estar disponible casi todo el tiempo (99.9% de disponibilidad), con mecanismos de respaldo y recuperación ante fallos para evitar interrupciones en el servicio.
+
 
 ## **7.	Plan de proyecto**
 
 Describe las actividades, el cronograma (Diagrama de Gantt) y el presupuesto del proyecto.
-*   El presupuesto debe tener en cuenta que no se pagará en dinero sino en tiempo de práctica de formación. Es decir, si el grupo del trabajo final lo componen tres estudiantes e invierten un total de 50 horas, estas serán pagadas a valor de práctica profesional. 1 SMLV.
 
+Tiempo por actividad
  
 ![IMG3](https://github.com/user-attachments/assets/e8cb9abf-2614-4256-a78c-0c537eaeca4c)
+
+
+Diagrama de Grant
 <img width="893" alt="IMG4" src="https://github.com/user-attachments/assets/7f283242-eb94-4c09-b361-50af2bf254b6">
+
+Descrippcion de actividades:
+* Carpeta de repositorio: Creación de una estructura de carpetas y archivos en un sistema de control de versiones, donde se almacenarán todos los componentes del software c omo código, documentación, versiones, etc.
+* Codigo del programa: En este se creara un codigo que busca satisfacer la necesidad planteada a las estudiantes por la eps, se desarrollara por medio de python con las herramientas aprendidas durante el curso.
+* Criterios y redacción del manual: Se definen los criterios funcionales y no funcionales del software, además de la elaboración delmanual de usuario para guiar a los futuros usuarios del sistema en cómo operar el programa y usar sus funciones.
+* Entrega del proyecto: Preparan del software finalizado para su entrega formal. Esto puede incluir la compilación del software, asegurandose que toda la documentación esté actualizada.
+* Prueba final del programa: Se realizan pruebas exhaustivas para verificar que el software funciona correctamente y cumple con los requisitos establecidos. Se llevarán a cabo pruebas de funcionalidad, rendimiento, usabilidad, y seguridad.
+* Pruebas y correcciones: Se identifican errores y problemas durante las pruebas, y la posterior corrección de los mismos. Esta tarea se centra en mejorar la calidad del software antes de su versión final.
+* Revisión del proyecto: Se realiza un análisis final del software para garantizar que todo se ha implementado correctamente, que cumple con los requisitos del cliente y que está listo para su implementación.
+* Versiones del programa: Creación de diferentes versiones del software, incluyendo la gestión de actualizaciones, cambios y mejoras a lo largo del tiempo. Esta tarea asegura que haya una versión estable disponible para la entrega final.
+
