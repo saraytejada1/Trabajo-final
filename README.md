@@ -169,7 +169,7 @@ Puedes ver el notebook en el siguiente enlace o abrirlo directamente en Google C
 [Ver Notebook de Colab](https://github.com/saraytejada1/Trabajo-final/blob/main/Untitled0.ipynb)
 
 O abre directamente en Google Colab aquí:
-[Abrir en Google Colab]([https://colab.research.google.com/github/usuario/repositorio/blob/main/notebook.ipynb](https://colab.research.google.com/drive/1iCp-Exwf9SvmePvwTkb8hSPW0a7GhKJt#scrollTo=pvbua-OYrlrM))
+[Abrir en Google Colab](https://colab.research.google.com/drive/1iCp-Exwf9SvmePvwTkb8hSPW0a7GhKJt#scrollTo=c2ju67pAZ3aB)
 
 
 ## **10. Manual de usuario**
