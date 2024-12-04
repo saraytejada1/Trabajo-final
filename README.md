@@ -195,7 +195,7 @@ Descripción de actividades:
 | 1.3.5    |	4-dic  |	Se termina en menú principal en el manual de usuario|
 | 1.3.6    |	4-dic  |	Se agregaron detalles del código        |
 | 1.4.0    |	4-dic  |	Se crea tabla plan versionada con unos valores aleatorios para comprobar si si funciona                                            |
-| 1.4.1    |	4-dic  |	se corregien los valores de la tabla con los reales|
+| 1.4.1    |	4-dic  |	se corrigen los valores de la tabla con los reales|
 | 2.0.0    |	4-dic  |	Se finaliza el trabajo                  |
 
 
