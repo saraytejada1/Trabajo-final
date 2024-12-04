@@ -165,6 +165,39 @@ Descripción de actividades:
 | 0.2.0    | 2024-12-10  | Módulo A funcional.                     |
 | 0.3.0    | 2024-12-15  | Interfaz gráfica inicial.               |
 | 1.0.0    | 2024-12-20  | Primera versión estable lista para entrega. |
+| 0.0.1    |	19-sep  |	Se crea el repositorio                  |
+| 0.0.2    |	19-sep  |	Se agrega encabezado de proyecto        |
+| 0.0.3    |	19-sep  |	agregamos nombre                        |
+| 0.0.4    |	19-sep  |	se corrige el nombre                    |
+| 0.0.5    |	19-sep  |	se agrega centrado al texto del documento|
+| 0.1.0    |	19-sep  |	añadimos puntos para primera entrega    |
+| 0.1.1    |	19-sep  |	corregimos punto 7                      |
+| 0.1.2    |	19-sep  |	se agrega imagen de perrito chiquito    |
+| 0.1.3    |	19-sep  |	se editan los pixeles de la imagen de perrito chiquito|
+| 0.1.4    |	19-sep  |	se editan los pixeles que teniamos malos|
+| 0.1.5    |	19-sep  |	se corrigen pixeles otra vez            |
+| 0.2.0    |	29-sep  |	se corrige alguna información           |
+| 0.2.1    |	29-sep  |	Corregimos datos integrantes e imagen de presentación|
+| 0.2.2    |	29-sep  |	corregimos espacios en la presentación  |
+| 0.2.3    |	29-sep  |	Se agregan imagenes al punto 7          |
+| 1.0.0    |	29-sep  |	Se marcan los criterios funcionales y no funcionales mas importantes y se describen las actividades a realizar                |
+| 1.1.0    |	4-dic  |	Se agregan numerales y títulos faltantes para la entrega final
+| 1.1.1    |	4-dic  |	Se agregan asteriscos para ellos numerales 8, 9 y 10 salgan como titulo                                                          |
+| 1.1.2    |	4-dic  |	Se ponen espacios                       |
+| 1.2.0    |	4-dic  |	Se agregan los links del algoritmo del notebook en GitHub y del cuaderno en colab                                                   |
+| 1.2.1    |	4-dic  |	Se arregla código del cuaderno en colab |
+| 1.2.2    |	4-dic  |	Se arregla texto en el numeral 9        |
+| 1.3.0    |	4-dic  |	Se inicia el manual de usuario con los requisitos.|
+| 1.3.1    |	4-dic  |	Se arreglan espacios titulo requisitos  |
+| 1.3.2    |	4-dic  |	Se arregla titulo requisitos            |
+| 1.3.3    |	4-dic  |	Se organiza tamaño requisitos           |
+| 1.3.4    |	4-dic  |	Se crea el menú principal y se inicia su descripción.|
+| 1.3.5    |	4-dic  |	Se termina en menú principal en el manual de usuario|
+| 1.3.6    |	4-dic  |	Se agregaron detalles del código        |
+| 1.4.0    |	4-dic  |	Se crea tabla plan versionada con unos valores aleatorios para comprobar si si funciona                                            |
+| 1.4.1    |	4-dic  |	se corregien los valores de la tabla con los reales|
+| 2.0.0    |	4-dic  |	Se finaliza el trabajo                  |
+
 
 ## **9. Algoritmo**
 
