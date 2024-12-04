@@ -147,7 +147,7 @@ Tiempo por actividad
 Diagrama de Grant
 <img width="893" alt="IMG4" src="https://github.com/user-attachments/assets/7f283242-eb94-4c09-b361-50af2bf254b6">
 
-Descrippcion de actividades:
+Descripción de actividades:
 * Carpeta de repositorio: Creación de una estructura de carpetas y archivos en un sistema de control de versiones, donde se almacenarán todos los componentes del software c omo código, documentación, versiones, etc.
 * Codigo del programa: En este se creara un codigo que busca satisfacer la necesidad planteada a las estudiantes por la eps, se desarrollara por medio de python con las herramientas aprendidas durante el curso.
 * Criterios y redacción del manual: Se definen los criterios funcionales y no funcionales del software, además de la elaboración delmanual de usuario para guiar a los futuros usuarios del sistema en cómo operar el programa y usar sus funciones.
@@ -157,3 +157,9 @@ Descrippcion de actividades:
 * Revisión del proyecto: Se realiza un análisis final del software para garantizar que todo se ha implementado correctamente, que cumple con los requisitos del cliente y que está listo para su implementación.
 * Versiones del programa: Creación de diferentes versiones del software, incluyendo la gestión de actualizaciones, cambios y mejoras a lo largo del tiempo. Esta tarea asegura que haya una versión estable disponible para la entrega final.
 
+##**8. Plan de versionado
+
+
+##**9. Algoritmo
+
+##**10. Manual de usuario
