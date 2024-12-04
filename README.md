@@ -161,10 +161,6 @@ Descripción de actividades:
 
 | Versión  | Fecha       | Cambios principales                      |
 |----------|-------------|------------------------------------------|
-| 0.1.0    | 2024-12-01  | Estructura inicial del proyecto.         |
-| 0.2.0    | 2024-12-10  | Módulo A funcional.                     |
-| 0.3.0    | 2024-12-15  | Interfaz gráfica inicial.               |
-| 1.0.0    | 2024-12-20  | Primera versión estable lista para entrega. |
 | 0.0.1    |	19-sep  |	Se crea el repositorio                  |
 | 0.0.2    |	19-sep  |	Se agrega encabezado de proyecto        |
 | 0.0.3    |	19-sep  |	agregamos nombre                        |
@@ -196,8 +192,8 @@ Descripción de actividades:
 | 1.3.6    |	4-dic  |	Se agregaron detalles del código        |
 | 1.4.0    |	4-dic  |	Se crea tabla plan versionada con unos valores aleatorios para comprobar si si funciona                                            |
 | 1.4.1    |	4-dic  |	se corrigen los valores de la tabla con los reales|
-| 2.0.0    |	4-dic  |	Se finaliza el trabajo                  |
-
+| 1.5.0    |	4-dic  |	Se finaliza el trabajo                  |
+| 2.0.0    |	4-dic  |	Se corrigen detalles finales            |
 
 ## **9. Algoritmo**
 
