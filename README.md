@@ -164,11 +164,12 @@ Descripción de actividades:
 
 Este proyecto incluye un notebook de Google Colab para la gestión de citas médicas.
 
-Puedes ver el notebook en el siguiente enlace o abrirlo directamente en Google Colab:
+Puedes ver el notebook haciando aquí:
 
 [Ver Notebook de Colab](https://github.com/saraytejada1/Trabajo-final/blob/main/Untitled0.ipynb)
 
 O abre directamente en Google Colab aquí:
+
 [Abrir en Google Colab](https://colab.research.google.com/drive/1iCp-Exwf9SvmePvwTkb8hSPW0a7GhKJt#scrollTo=c2ju67pAZ3aB)
 
 
