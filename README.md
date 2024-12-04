@@ -177,8 +177,21 @@ O abre directamente en Google Colab aquí:
 
 Este proyecto es un sistema básico en Python para gestionar usuarios y citas. Está diseñado para registrar pacientes, programar citas médicas y generar reportes de la información almacenada. 
 
-##### *Requisitos* 
+### *Requisitos* 
+
  * Para ejecutar el programa debes tener instalado pyton3.6 o superior (Google Colaboratory tiene esta versión incluida en su sistema)
  * Bibliotecas especificadas en el código.
 
+
+### *Menu principal*
+
+Al iniciar el programa vamos a ver un me nu con las siguientes opciones:
+ 1. Agregar usuario: en esta opcion vamos a poder crear un usiario si aun no estas gregado, se solicita la siguiente informacion.
+    * Cedula del paciente
+    * Nombre del paciente (queda asociado a la CC proporcionada)
+    * Edad del paciente
+    * Numero de contacto del paciente
+    Luego de ingresar todos los datos solicitados el usuario se crea y ya se puede pasar a agendar una cita.
+
+   
 
