@@ -203,5 +203,14 @@ Al iniciar el programa vamos a ver un me nu con las siguientes opciones:
  4. Generar reporte: para este paso unicamente podra ingresar el personal administrativo que tenga la clave de ingreso; alli se veran reflejados los usuarios registrados, las cits agendadas y el estado de la cita.
  5. Salir: Si ya terminaste tu consulta o agendamiento se procede a salir del menu.
 
-   
+### *Detalles del código*
 
+ 1. Estructura datos
+    * Usuarios: La variable usuario se guarda en un diccionario llamado usuarios con la cedula como clave, cada usuario tiene un diccionario con los campos nombre, edad y número.
+    * Citas: La variable cita se almacenan en un diccionario llamado citas, donde la cédula del usuario actúa como clave, las citas de cada usuario son listas de diccionarios con los campos fecha, hora, tipo, médico y estado.
+ 2. Funciones
+    * agregar_usuario(): Agrega un nuevo usuario si la cédula no está ya registrada.
+    * agregar_cita(): Agrega una nueva cita asociada a un usuario existente.
+    * confirmar_cancelar_cita(): Permite modificar el estado de una cita registrada.
+    * generar_reporte(): Genera un listado detallado de usuarios y citas.
+    * menu(): Controla la interacción del usuario con el sistema mediante el menú principal.
