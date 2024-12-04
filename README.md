@@ -191,7 +191,17 @@ Al iniciar el programa vamos a ver un me nu con las siguientes opciones:
     * Nombre del paciente (queda asociado a la CC proporcionada)
     * Edad del paciente
     * Numero de contacto del paciente
-    Luego de ingresar todos los datos solicitados el usuario se crea y ya se puede pasar a agendar una cita.
+    Luego de ingresar todos los datos solicitados el usuario se crea y ya se puede pasar a agendar una cita.}
+2. Agregar cita: En esta opcion unicamente los usuarios previamente agregados van a poder agendar su cita, si no tienes usuario debes crearlo en la opción 1, para agendar la cita debes poner los siguientes datos.
+    * Ingrese la cedula del paciente
+    * Ingrese la fecha en la que deseas agendar la cita
+    * Ingrese la hora de la cita
+    * Ingrese el tipo de cita (medico general, especialista, e.t.c)
+    * Ingrese el nombre del medico (debes ingresar el nombre de tu medico de cabecera)
+   Luego de agregar todos los datos el sistema agendara exitosamente la cita, pero quedara en estado pendiente de confirmación o cancelación.
+ 3. Confirmar o cancelar cita: en esta opcion podras cambiar el estado de tu cita a confirmada o cancelada y tambien consultar las citas que tiene agendadas el usuario.
+ 4. Generar reporte: para este paso unicamente podra ingresar el personal administrativo que tenga la clave de ingreso; alli se veran reflejados los usuarios registrados, las cits agendadas y el estado de la cita.
+ 5. Salir: Si ya terminaste tu consulta o agendamiento se procede a salir del menu.
 
    
 
