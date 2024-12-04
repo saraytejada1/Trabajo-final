@@ -159,6 +159,12 @@ Descripción de actividades:
 
 ## **8. Plan de versionado**
 
+| Versión  | Fecha       | Cambios principales                      |
+|----------|-------------|------------------------------------------|
+| 0.1.0    | 2024-12-01  | Estructura inicial del proyecto.         |
+| 0.2.0    | 2024-12-10  | Módulo A funcional.                     |
+| 0.3.0    | 2024-12-15  | Interfaz gráfica inicial.               |
+| 1.0.0    | 2024-12-20  | Primera versión estable lista para entrega. |
 
 ## **9. Algoritmo**
 
