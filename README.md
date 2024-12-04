@@ -157,9 +157,9 @@ Descripción de actividades:
 * Revisión del proyecto: Se realiza un análisis final del software para garantizar que todo se ha implementado correctamente, que cumple con los requisitos del cliente y que está listo para su implementación.
 * Versiones del programa: Creación de diferentes versiones del software, incluyendo la gestión de actualizaciones, cambios y mejoras a lo largo del tiempo. Esta tarea asegura que haya una versión estable disponible para la entrega final.
 
-##**8. Plan de versionado**
+## **8. Plan de versionado**
 
 
-##**9. Algoritmo**
+## **9. Algoritmo**
 
-##**10. Manual de usuario**
+## **10. Manual de usuario**
